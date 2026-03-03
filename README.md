@@ -94,9 +94,3 @@ Repositório dedicado à organização das minhas certificações técnicas, for
 | Qualificação Design de Produto – Eixo Tecnologia | UTFPR | 2018 |
 | Abertura Semana Pedagógica SENAI 2025 | Sistema Fiep | 2025 |
 | Abertura Semana Pedagógica SENAI Julho 2025 | Sistema Fiep | 2025 |
-
----
-
-## Objetivo Profissional
-
-Atuar em projetos desafiadores nas áreas de Engenharia de Software, Sistemas Embarcados, Arquitetura de Sistemas e Inteligência Artificial aplicada, contribuindo com excelência técnica e desenvolvimento contínuo.
