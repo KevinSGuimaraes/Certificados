@@ -19,7 +19,7 @@ Técnico em Informática – IFBA
 - Inteligência Artificial aplicada  
 - Metodologias Ágeis  
 
-LinkedIn: https://www.linkedin.com/in/SEU-USUARIO  
+LinkedIn: https://www.linkedin.com/in/kevinsguimaraes  
 
 ---
 
