@@ -1,47 +1,8 @@
 # Certificações Técnicas
 
-Repositório dedicado à organização das minhas certificações técnicas, formações complementares e capacitações profissionais nas áreas de Engenharia de Software, Sistemas Embarcados, Redes, Inteligência Artificial e Metodologias Ágeis.
+Certificações Técnicas
 
----
-
-## Perfil Profissional
-
-Bacharel e Licenciado em Engenharia de Computação – UTFPR  
-Técnico em Informática – IFBA  
-
-Áreas de atuação:
-
-- Engenharia de Software  
-- Sistemas Embarcados (Firmware em C)  
-- Banco de Dados  
-- Redes e Infraestrutura  
-- Segurança da Informação  
-- Inteligência Artificial aplicada  
-- Metodologias Ágeis  
-
-LinkedIn: https://www.linkedin.com/in/kevinsguimaraes  
-
----
-
-## Experiência Profissional (Resumo Técnico)
-
-**Técnico de Ensino Pleno – SENAI (2024 – Atual)**  
-Docência em Lógica de Programação, Algoritmos, Engenharia de Software e Banco de Dados.
-
-**Engenheiro de Sistemas Embarcados – AutenPRO (2022 – 2023)**  
-Desenvolvimento de firmware em C, prototipagem eletrônica e validação de sistemas embarcados.
-
-**Desenvolvedor de Software – Setor Público (2021 – 2022)**  
-Desenvolvimento de soluções tecnológicas voltadas à inovação municipal.
-
-**Analista de Desenvolvimento de Sistemas – Setor Bancário (2019 – 2020)**  
-Desenvolvimento de software corporativo e soluções empresariais.
-
-### Experiências Anteriores
-
-- Monitor de Banco de Dados – UTFPR  
-- Desenvolvedor de Software – OCCAM Engenharia  
-- Gerente de Redes e Desenvolvedor PHP – Resolve Consultoria  
+Repositório dedicado à organização das minhas certificações técnicas, formações complementares e capacitações profissionais.
 
 ---
 
